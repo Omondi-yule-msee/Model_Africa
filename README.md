@@ -12,7 +12,7 @@
   - ng-1-0_0_0_0_0_0.csv (sample of full results)
   - ng-1-0_0_0_0_0_0_summary.csv (sample of summary results)
 
-Guidelines on how to use the model can be found on the Global electrification platform: https://gep-onsset.readthedocs.io/en/latest/index.html#
+Guidelines on how to use the model can be found on the Global electrification platform: https://gep-onsset.readthedocs.io/en/latest/Scenario%20run.html
 
 ## Queries
 
