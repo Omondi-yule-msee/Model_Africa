@@ -4,7 +4,7 @@
 
 
 ## Scripts
-- country_input_sample: directory containing country sample input data (Nigeria_sample.csv)
+- country_input: directory containing country sample input data (Nigeria.csv)
 - gep_onsset.py: modified source code for the OnSSET model sourced from the Global electrification platform
 - gep_runner.py: modifed script that runs the gep_onsset.py 
 - scenario_data: modified input file containing inputs used in the gep_runner script
